@@ -41,12 +41,7 @@ More at **[frai.cc](https://www.frai.cc/)**.
 
 <sub>Plus neural-network coursework and earlier full-stack / Flutter projects across my <a href="https://github.com/sebuzdugan?tab=repositories">repositories</a>.</sub>
 
-## 📊 GitHub
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sebuzdugan&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0c0d&title_color=9fe870&icon_color=9fe870&text_color=c4cacd" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebuzdugan&layout=compact&hide_border=true&langs_count=8&bg_color=0a0c0d&title_color=9fe870&text_color=c4cacd" />
-</p>
+## 📊 GitHub activity
 
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=sebuzdugan&bg_color=0a0c0d&color=9fe870&line=9fe870&point=ffffff&area=true&hide_border=true)
 
