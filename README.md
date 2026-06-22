@@ -25,6 +25,7 @@ More at **[frai.cc](https://www.frai.cc/)**.
 
 ## 🛠️ Practical tools
 
+- **[CrossCheckAI](https://github.com/sebuzdugan/CrossCheckAI):** Ask multiple frontier LLMs the same question and see where they agree, disagree, and why the disagreement matters. Web + CLI + library, BYOK, runs in the browser. [Live demo](https://sebuzdugan.github.io/CrossCheckAI/).
 - **[AIEngineerCV](https://github.com/sebuzdugan/AIEngineerCV):** A CV builder for AI engineers. Web + CLI + Claude plugin, with an AI Recruiter Score.
 - **[frontier-ai-prompts](https://github.com/sebuzdugan/frontier-ai-prompts):** A practical prompt library for GPT-5.5, Claude Opus, Gemini, and modern AI workflows.
 - **[async-nlp-pipeline](https://github.com/sebuzdugan/async-nlp-pipeline):** A production-style FastAPI NLP service: async preprocessing, transformer sentiment, spaCy NER, rate limiting, SQLModel.
