@@ -1,6 +1,6 @@
 <h3 align="left">Sebastian Buzdugan</h3>
 
-[![Website](https://img.shields.io/badge/Website-frai.cc-9fe870?style=flat-square&logo=googlechrome&logoColor=white)](https://www.sebuzdugan.com/)
+[![Website](https://img.shields.io/badge/Website-sebuzdugan.com-9fe870?style=flat-square&logo=googlechrome&logoColor=white)](https://www.sebuzdugan.com/)
 
 📍 Cluj-Napoca&nbsp;&nbsp;|&nbsp;&nbsp;🧪 ML Engineer + PhD Student in AI&nbsp;&nbsp;|&nbsp;&nbsp;🛡️ Building open-source Responsible-AI tooling
 
@@ -49,6 +49,6 @@ More at **[frai.cc](https://www.frai.cc/)**.
 [![X](https://img.shields.io/badge/X-@sebuzdugan-0a0c0d?style=flat-square&logo=x&logoColor=white)](https://x.com/sebuzdugan)
 [![YouTube](https://img.shields.io/badge/YouTube-@sebuzdugan-0a0c0d?style=flat-square&logo=youtube&logoColor=ff0000)](https://youtube.com/@sebuzdugan)
 [![Medium](https://img.shields.io/badge/Medium-@sebuzdugan-0a0c0d?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@sebuzdugan)
-[![Website](https://img.shields.io/badge/Website-frai.cc-9fe870?style=flat-square&logo=googlechrome&logoColor=white)](https://www.sebuzdugan.com/)
+[![Website](https://img.shields.io/badge/Website-sebuzdugan.com-9fe870?style=flat-square&logo=googlechrome&logoColor=white)](https://www.sebuzdugan.com/)
 
 <sub>Open source, responsible by default. Building in public from Cluj-Napoca.</sub>
