@@ -1,5 +1,7 @@
 <h3 align="left">Sebastian Buzdugan</h3>
 
+[sebuzdugan.com](https://sebuzdugan.com)
+
 📍 Cluj-Napoca&nbsp;&nbsp;|&nbsp;&nbsp;🧪 ML Engineer + PhD Student in AI&nbsp;&nbsp;|&nbsp;&nbsp;🛡️ Building open-source Responsible-AI tooling
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
