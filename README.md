@@ -18,6 +18,7 @@ I build tools that make AI **safer to ship** and **easier to learn**. Creator of
 ## 🛡️ Responsible AI (FRAI)
 
 - **[frai](https://github.com/sebuzdugan/frai):** Open-source toolkit for responsible AI. CLI + SDK to scan code, collect evidence, and generate model cards, risk files, evals, and RAG indexes.
+- **[frai-skills](https://github.com/sebuzdugan/frai-skills):** Agent skills for responsible AI. The FRAI Gate makes AI coding agents answer 7 responsible-AI checks in every spec, with `npx frai-gate` blocking CI until they are. Install: `npx skills add sebuzdugan/frai-skills`.
 - **[frai-benchmark](https://github.com/sebuzdugan/frai-benchmark):** A consensus "Panel of Experts" safety and compliance benchmark for SOTA LLMs (DeepSeek, Grok, GPT-5).
 - **[frai-chat](https://github.com/sebuzdugan/frai-chat):** Responsible-AI copilot grounded in the EU AI Act, NIST AI RMF, and ISO/IEC 42001. BYOK, runs in the browser.
 - **[frai-judge](https://github.com/sebuzdugan/frai-judge):** Model-as-judge evaluation used in the FRAI stack.
