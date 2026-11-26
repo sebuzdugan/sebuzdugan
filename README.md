@@ -1,3 +1,5 @@
+<p align="center"><img src="./assets/banner.png" alt="AI, tested for real." width="100%"></p>
+
 <h3 align="left">Sebastian Buzdugan</h3>
 
 [![Website](https://img.shields.io/badge/Website-sebuzdugan.com-9fe870?style=flat-square&logo=googlechrome&logoColor=white)](https://www.sebuzdugan.com/)
